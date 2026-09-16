@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -118,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
