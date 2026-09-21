@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
