@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0137-single-number-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0137-single-number-ii) |
 ## Simulation
 |  |
 | ------- |
