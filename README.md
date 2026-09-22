@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -166,4 +168,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
