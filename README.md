@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0168-excel-sheet-column-title) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0151-reverse-words-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0168-excel-sheet-column-title) |
 ## Binary Search
 |  |
 | ------- |
