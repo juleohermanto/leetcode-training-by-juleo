@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
 ## String
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
