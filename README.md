@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
 ## String
@@ -207,4 +209,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
