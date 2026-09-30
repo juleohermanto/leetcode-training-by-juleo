@@ -232,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
