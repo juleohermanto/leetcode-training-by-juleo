@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -88,12 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
