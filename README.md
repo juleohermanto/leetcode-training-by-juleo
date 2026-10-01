@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
+| [1539-kth-missing-positive-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
 |  |
 | ------- |
