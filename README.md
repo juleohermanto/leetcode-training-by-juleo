@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
