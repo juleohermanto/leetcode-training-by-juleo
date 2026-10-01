@@ -2,15 +2,17 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.length()!= t.length())return false;
-        map<char,int>check;
-        for(auto i : t){
-            check[i]++;
+        int check[26] = {0};
+        for(auto i : s){
+            check[i-'a']++;
         }
-        for(auto i:s){
-            if(check.find(i) == check.end()||check[i]==0){
+        for(auto i :t){
+            check[i-'a']--;
+        }
+        for(int i = 0 ;i < 26; i++){
+            if(check[i]!=0){
                 return false;
             }
-            check[i]--;
         }
         return true;
     }
