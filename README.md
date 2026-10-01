@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
 ## String
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
