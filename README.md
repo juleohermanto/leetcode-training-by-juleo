@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0628-maximum-product-of-three-numbers) |
 | [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
