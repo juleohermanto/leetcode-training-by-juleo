@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1539-kth-missing-positive-number) |
+| [3024-type-of-triangle](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1137-n-th-tribonacci-number) |
+| [3024-type-of-triangle](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0628-maximum-product-of-three-numbers) |
+| [3024-type-of-triangle](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0197-rising-temperature) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
