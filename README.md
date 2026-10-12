@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0120-triangle) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0144-binary-tree-preorder-traversal) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0191-number-of-1-bits) |
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3024-type-of-triangle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
