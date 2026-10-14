@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/1539-kth-missing-positive-number) |
 ## Newton's Method
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
