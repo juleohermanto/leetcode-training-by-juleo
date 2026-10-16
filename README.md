@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0409-longest-palindrome) |
 | [3731-find-missing-elements](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/3731-find-missing-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0409-longest-palindrome) |
 | [0917-reverse-only-letters](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0917-reverse-only-letters) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/juleohermanto/leetcode-training-by-juleo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
